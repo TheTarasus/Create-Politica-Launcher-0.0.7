@@ -21,11 +21,11 @@ export const appPath = '.aurora-launcher';
 export const discordRPC = {
     appId: '1214685301793103902',
     default: {
-        firstLineText: 'Тестирую лаунчер',
-        secondLineText: 'Чувак, ты думал здесь что-то будет?',
+        firstLineText: 'Захожу на Create-Politica.SU',
+        secondLineText: '',
         buttons: [
             {
-                label: 'Прекол',
+                label: 'Click to be rickrolled',
                 url: 'https://youtu.be/dQw4w9WgXcQ',
             },
         ],
@@ -39,7 +39,7 @@ export const discordRPC = {
         secondLineText: 'Загружаю {server}',
         buttons: [
             {
-                label: 'Прекол',
+                label: 'Click to be rickrolled',
                 url: 'https://youtu.be/dQw4w9WgXcQ',
             },
         ],
@@ -49,7 +49,7 @@ export const discordRPC = {
         smallImageText: 'Minecraft',
     },
     game: {
-        firstLineText: 'Играю на тестовом сервере',
+        firstLineText: 'Играю на Create-Politica',
         secondLineText: 'Играю за {nickname}',
         buttons: [
             {
@@ -59,7 +59,7 @@ export const discordRPC = {
         ],
         largeImageKey: 'logo',
         smallImageKey: 'logo_mc',
-        largeImageText: 'Aurora Launcher',
-        smallImageText: 'Minecraft',
+        largeImageText: 'Create-Politica',
+        smallImageText: 'Minecraft (with Create, it\'s addons and self-written mods)',
     },
 };
